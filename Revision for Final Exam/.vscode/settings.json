@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "/opt/homebrew/opt/python@3.13/bin/python3.13",
+
+    "[c]": {
+        "editor.defaultFormatter": "keyhr.42-c-format"
+    },
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "unistd.h": "c"
+    }
+}
