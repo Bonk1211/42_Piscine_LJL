@@ -13,4 +13,5 @@ $>*/
 
 void	ft_aaa(char c)
 {
+    
 }
